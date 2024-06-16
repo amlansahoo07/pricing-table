@@ -43,6 +43,8 @@ Media queries are used to adjust the layout for different screen sizes. When the
    cd pricing-table
 3. Open index.html in your preferred browser to view the pricing table.
 
+Alternatively, you can access the page directly [here](https://amlansahoo07.github.io/pricing-table/).
+
 ## Screenshots
 ### Large Screen
 <img width="867" alt="image" src="https://github.com/amlansahoo07/pricing-table/assets/35356517/ccf00b12-a83f-424d-9b69-1ad2c53bd424">
